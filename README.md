@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @amey-SN
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning Django framework
-- 💞️ I’m looking to collaborate on backend web developement using Django
+- 🌱 I’m currently working on React Js 
+- 💞️ I’m looking to collaborate on  web developement using React
 - 📫 How to reach me - ameynagmode@gmail.com
+- My Tech Stack :
+  - React
+  - Django 
+  - PHP
+  - JS
+  - CSS
+  - HTML  
 
 <!---
 amey-SN/amey-SN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
