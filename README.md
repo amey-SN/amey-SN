@@ -9,7 +9,7 @@
   - PHP
   - JS
   - CSS
-  - ![html]('https://pngtree.com/freepng/vector-html-icon_4196393.html') HTML  
+  - ![html](https://pngtree.com/freepng/vector-html-icon_4196393.html) HTML  
 
 <!---
 amey-SN/amey-SN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
